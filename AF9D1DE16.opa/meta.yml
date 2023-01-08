@@ -1,0 +1,19 @@
+id: AF9D1DE16
+title: 'Inlaid Jewels: Addenda to the ''Neck-Pouch Dagger’ (Purba Gulkhukma) Cycle'
+type: translation
+pechas:
+- IAABB97BF
+- I24214209
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:50.412326
+  last_modified_at: 2023-01-04 12:50:50.412344
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IAABB97BF/7749: 40A8
+  I24214209/3A3A: 40A8
